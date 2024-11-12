@@ -1,11 +1,6 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Derek</h1>
+<h1 align="left" id="macropower-title">Hi</h1>
+<h1 align="left" id="macropower-title">My name is Caleb but some people call me catlib</h1>
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
-  </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
-  </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
