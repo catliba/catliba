@@ -1,4 +1,4 @@
-Hi, my name is Caleb Li. I am interested Software Engineering, Machine Learning, and Trading!
+Hi, my name is Caleb Li. I am interested Software Engineering.
 
 My tech stack mainly consists of Python, Pandas, Typescript, React, React Native, HTML, CSS, Tailwind
 
