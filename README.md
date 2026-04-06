@@ -6,4 +6,4 @@ I enjoy building my multi functional website catlieb.com, doing website automati
 
 In my pasttime, I enjoy analyzing and studying game theory and playing strategy games.
 
-Contact me at 1caleblili@gmail.com
+Check out my website: https://catlieb.com
